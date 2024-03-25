@@ -1,0 +1,27 @@
+* create type of user and login.
+
+* add forget password functionality.... 
+
+categories similar to courses .... 
+job types similar to level ... 
+job listings similar to classes .... 
+
+
+admin work .. 
+
+
+
+candidate work 
+
+candidates should be able to see the available jobs based on categories and types... 
+
+application status could be applied, shortlisted, rejected(reason) . 
+
+relevancy score based on applied resume.
+
+
+
+
+
+
+
